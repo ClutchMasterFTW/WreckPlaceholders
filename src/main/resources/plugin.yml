@@ -1,0 +1,5 @@
+name: WreckPlaceholders
+version: '${project.version}'
+main: me.clutchmasterftw.wreckplaceholders.WreckPlaceholders
+api-version: '1.19'
+depend: [PlaceholderAPI, Prison]
